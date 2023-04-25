@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    width: 940px;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulario label {
+    margin: 1rem;
+}
+
+#envio {
+    margin-top: 1rem;
+    width: 100px;
+    height: 30px;
+}
+
+.resposta {
+    width: 940px;
+    display: flex;
+    justify-content: center;
+}
