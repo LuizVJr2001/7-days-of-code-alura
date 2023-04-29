@@ -11,3 +11,8 @@ Fiz tentando utilizar HTML e CSS, não ficou muito elegante, mas está funcional
 
 - Dia 4: Jogo de adivinhação = 
 Fiz utilizando função recursiva.
+
+- Dia 5: lista de compras.
+
+#7DaysOfCode
+#feedback7DoC
