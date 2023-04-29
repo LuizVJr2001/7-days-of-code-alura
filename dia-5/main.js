@@ -1,14 +1,10 @@
+//categorias
 const frutas = [];
 const laticinios = [];
 const congelados = [];
 const doces = [];
 
-
 var acabou = false;
-
-
-//categorias
-
 
 while (!acabou) {
     var continuar = prompt("Você deseja adicionar uma comida na sua lista de compras? Responda com sim ou não.");
